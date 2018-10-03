@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GonzalesJonathanLab5</string>
+    <string name="act1_title">Quiapo Church</string>
+    <string name="act1_location">Location: Quezon Blvd, Plaza Miranda Quiapo, Manila, Luzon 1014 Philippines</string>
+    <string name="act1_distance">Distance: 2.4 km from University of Santo Tomas</string>
+    <string name="act2_title">Manila Cathedral</string>
+    <string name="act2_location">Location: Cabildo cor Beaterio Intramuros, Manila, Luzon 1002 Philippines</string>
+    <string name="act2_distance">Distance: 3.6 km from University of Santo Tomas</string>
+</resources>
